@@ -8,7 +8,7 @@ Target-oriented multimodal sentiment classification is an important subtask of a
 
 ###  Overview
 <p align="center">
-  <img src="./images/overview.jpg" alt=" Overview of the proposed model.">
+  <img src="./image/overview.jpg" alt=" Overview of the proposed model.">
 </p>
 
 Figure shows the overview of our designed framework, which comprises four primary modules: 
@@ -20,7 +20,7 @@ Figure shows the overview of our designed framework, which comprises four primar
 
 ---
 ### Follow the steps below to run the code:
-1. download [Bertweet-base](https://arxiv.org/abs/2005.10200), and put it in `./bertweet-base` directory
+1. download [Bertweet-base](https://arxiv.org/abs/2005.10200)
 2. download [dataset](https://www.ijcai.org/proceedings/2019/751)
 3. install packages (see `requirements.txt`)
 4. run `bash scripts/*.sh`
