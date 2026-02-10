@@ -22,8 +22,9 @@ Figure shows the overview of our designed framework, which comprises four primar
 ### Follow the steps below to run the code:
 1. download [Bertweet-base](https://arxiv.org/abs/2005.10200)
 2. download [dataset](https://www.ijcai.org/proceedings/2019/751)
-3. install packages (see `requirements.txt`)
-4. run `bash scripts/*.sh`
+3. generate [ANP documents](https://github.com/stephen-pilli/DeepSentiBank)
+4. install packages (see `requirements.txt`)
+5. run `bash scripts/*.sh`
 
 
 ```
