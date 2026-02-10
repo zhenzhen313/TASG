@@ -24,7 +24,7 @@ class NormalizedCrossEntropy(nn.Module):
 class ReverseCrossEntropy(nn.Module):
     def __init__(self, num_classes, scale=1.0, device='cuda'):
         super(ReverseCrossEntropy, self).__init__()
-        self.device = device  # 假设在你的代码里提前定义好了 device
+        self.device = device 
         self.num_classes = num_classes
         self.scale = scale
 
